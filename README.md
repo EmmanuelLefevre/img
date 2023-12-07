@@ -36,8 +36,9 @@ db.auth("Admin","nimda")
 ```
 #### 2. Connexion with MongoDb VsCode extension:
 ![Step 1](https://github.com/EmmanuelLefevre/img/blob/main/MongoDb%20VsCode%20extension%20connexion%20step%201.png)
+&nbsp;
 ![Step 2](https://github.com/EmmanuelLefevre/img/blob/main/MongoDb%20VsCode%20extension%20connexion%20step%202.png)
 ***
-### 2. Docker<
+### 2. Docker
 
 
