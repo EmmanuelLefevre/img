@@ -33,12 +33,13 @@ db.createUser({ user: "Admin", pwd: "nimda", roles: [{ role: "readWrite", db: "b
 ```
 [MongoDb create a user documentation](https://www.mongodb.com/docs/manual/tutorial/create-users/)
 &nbsp;
-#### <font color="green">Connexion with Mongosh:</font>
+#### <$${\color{green}Connexion \space with \space Mongosh:}$$
 ```shell
 db.auth("Admin","nimda")
 ```
 #### <span style="color: #95cb11;">Connexion with MongoDb VsCode extension:</span>
 ![Step 1](https://github.com/EmmanuelLefevre/img/blob/main/MongoDb%20VsCode%20extension%20connexion%20step%201.png)
+&nbsp;
 ![Step 2](https://github.com/EmmanuelLefevre/img/blob/main/MongoDb%20VsCode%20extension%20connexion%20step%202.png)
 ***
 ### <span style="color: #4EABFB;">2. Docker</span>
