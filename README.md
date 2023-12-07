@@ -37,7 +37,7 @@ db.createUser({ user: "Admin", pwd: "nimda", roles: [{ role: "readWrite", db: "b
 ```shell
 db.auth("Admin","nimda")
 ```
-#### <span style="color: #95cb11;">Connexion with MongoDb VsCode extension:</span>
+#### `#95cb11`Connexion with MongoDb VsCode extension:
 ![Step 1](https://github.com/EmmanuelLefevre/img/blob/main/MongoDb%20VsCode%20extension%20connexion%20step%201.png)
 &nbsp;
 ![Step 2](https://github.com/EmmanuelLefevre/img/blob/main/MongoDb%20VsCode%20extension%20connexion%20step%202.png)
