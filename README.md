@@ -1,4 +1,5 @@
 # $${\color{blue}BLOG}$$
+<h1 align="center">Blog</h1>
 &nbsp;
 ## <span style="color: #0085FA;"><u>INSTALLATION</u></span>
 ### <span style="color: #4EABFB;">1. Local</span>
