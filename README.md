@@ -2,8 +2,8 @@
 &nbsp;
 ## <span style="color: #0085FA;"><u>INSTALLATION</u></span>
 ### <span style="color: #4EABFB;">1. Local</span>
-- Install MongoDb Compass and Mongosh shell.
-[MongoDb shell download](https://www.mongodb.com/try/download/shell)
+- Install MongoDb Compass and Mongosh shell.  
+[MongoDb shell download](https://www.mongodb.com/try/download/shell)  
 [MongoDb Compass download](https://www.mongodb.com/try/download/compass)
 &nbsp;
 - Create database with Mongosh:
@@ -33,7 +33,7 @@ db.createUser({ user: "Admin", pwd: "nimda", roles: [{ role: "readWrite", db: "b
 ```
 [MongoDb create a user documentation](https://www.mongodb.com/docs/manual/tutorial/create-users/)
 &nbsp;
-#### <span style="color: #95cb11;">Connexion with Mongosh:</span>
+#### $${\color{green}Connexion with Mongosh:}$$
 ```shell
 db.auth("Admin","nimda")
 ```
