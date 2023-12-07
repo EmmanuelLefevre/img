@@ -36,11 +36,7 @@ db.createUser({ user: "Admin", pwd: "nimda", roles: [{ role: "readWrite", db: "b
 db.auth("Admin","nimda")
 ```
 #### 2. Or connexion with MongoDb VsCode extension:
-<p align="center">
 ![Step 1](https://github.com/EmmanuelLefevre/img/blob/main/MongoDb%20VsCode%20extension%20connexion%20step%201.pn)
-</p>
-<p align="center">
 ![Step 2](https://github.com/EmmanuelLefevre/img/blob/main/MongoDb%20VsCode%20extension%20connexion%20step%202.png)
-</p>
 ***
 ### 2. Docker
