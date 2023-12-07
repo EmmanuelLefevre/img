@@ -1,4 +1,4 @@
-# <span style="color: #005CAB;"><center>BLOG</center></span>
+# $${\color{blue}BLOG}$$
 &nbsp;
 ## <span style="color: #0085FA;"><u>INSTALLATION</u></span>
 ### <span style="color: #4EABFB;">1. Local</span>
@@ -33,7 +33,7 @@ db.createUser({ user: "Admin", pwd: "nimda", roles: [{ role: "readWrite", db: "b
 ```
 [MongoDb create a user documentation](https://www.mongodb.com/docs/manual/tutorial/create-users/)
 &nbsp;
-#### $${\color{green}Connexion with Mongosh:}$$
+#### <font color="green">Connexion with Mongosh:</font>
 ```shell
 db.auth("Admin","nimda")
 ```
